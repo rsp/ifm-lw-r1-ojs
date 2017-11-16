@@ -1,0 +1,31 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2017,
+    "sourceType": "script",
+    "ecmaFeatures": {
+      "jsx": false
+    }
+  },
+  "env": {
+    "es6": true,
+    "node": true,
+    "jasmine": true
+  },
+  "extends": "airbnb-base",
+  "plugins": [
+  ],
+  "rules": {
+    "linebreak-style": [
+      "error",
+      "unix"
+    ],
+    "unicode-bom": [
+      "error",
+      "never"
+    ],
+    "no-shadow": "off",
+    "func-names": "off",
+    "no-unused-vars": "off",
+    "object-curly-newline": "off",
+  }
+}
