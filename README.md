@@ -13,11 +13,12 @@ inFullMobile Language Wars: Round 1 - JavaScript
 
 JavaScript solution to inFullMobile Language Wars: Round 1.
 
-Implementation:
+Solution to the challange:
 
 * [solution.js](solution.js)
 
-Helper functions:
+Helper functions to test the solution,
+written using old syntax to make it clear what's going on:
 
 * [helpers.js](helpers.js)
 
