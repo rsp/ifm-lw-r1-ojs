@@ -58,7 +58,7 @@ MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 [travis-img]: https://travis-ci.org/rsp/ifm-lw-r1-js.svg?branch=master
 [travis-shield]: https://img.shields.io/travis/rsp/ifm-lw-r1-js.svg?label=Travis+CI
 [circle-url]: https://circleci.com/gh/rsp/ifm-lw-r1-js
-[circle-img]: https://circleci.com/gh/rsp/ifm-lw-r1-js.svg?style=svg
+[circle-img]: https://circleci.com/gh/rsp/ifm-lw-r1-js.svg?style=svg&circle-token=297eb2043562377c18aa17ecb8fa7286be8bf229
 [circle-shield]: https://img.shields.io/circleci/project/github/rsp/ifm-lw-r1-js.svg?label=Circle+CI
 [snyk-url]: https://snyk.io/test/github/rsp/ifm-lw-r1-js
 [snyk-img]: https://snyk.io/test/github/rsp/ifm-lw-r1-js/badge.svg
