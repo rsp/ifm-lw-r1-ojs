@@ -25,16 +25,11 @@ Solutions to the challange:
 
 Sample input
 ------------
-Sample input functions to test the solution,
-written using old syntax to make it clear what's going on:
-
-* [helpers.js](helpers.js)
+Sample input to test the solution, using old syntax for simplicity: [helpers.js](helpers.js)
 
 Tests
 -----
-Implementation tests:
-
-* [tests.js](tests/tests.js)
+Implementation tests: [tests.js](tests/tests.js)
 
 Issues
 ------
