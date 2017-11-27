@@ -23,8 +23,10 @@
       "error",
       "never"
     ],
+    "no-var": "off",
     "no-shadow": "off",
     "func-names": "off",
+    "vars-on-top": "off",
     "no-plusplus": "off",
     "no-unused-vars": "off",
     "global-require": "off",
