@@ -25,7 +25,13 @@
     ],
     "no-shadow": "off",
     "func-names": "off",
+    "no-plusplus": "off",
     "no-unused-vars": "off",
+    "global-require": "off",
+    "no-confusing-arrow": "off",
     "object-curly-newline": "off",
+    "no-restricted-syntax": "off",
+    "prefer-arrow-callback": "off",
+    "import/no-dynamic-require": "off"
   }
 }
