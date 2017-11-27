@@ -14,6 +14,7 @@ inFullMobile Language Wars: Round 1 - JavaScript
 JavaScript solution to inFullMobile Language Wars: Round 1. For more info see:
 
 * [inFullMobile Language Wars: Introduction](https://blog.infullmobile.com/language-wars-introduction-8ea0598e897)
+* [inFullMobile Language Wars: Round 1 Task Summary](https://gist.github.com/rsp/4255663f8c5a5e58bc9818a6174fe28f)
 
 Solutions
 ---------
