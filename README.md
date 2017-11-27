@@ -13,9 +13,10 @@ inFullMobile Language Wars: Round 1 - JavaScript
 
 JavaScript solution to inFullMobile Language Wars: Round 1.
 
-Solution to the challange:
+Solutions to the challange:
 
-* [solution.js](solution.js)
+* [solution-1-old.js](solution-1-old.js) - iterative solution, old syntax
+* [solution-1-new.js](solution-1-new.js) - iterative solution, new syntax
 
 Helper functions to test the solution,
 written using old syntax to make it clear what's going on:
