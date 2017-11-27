@@ -24,7 +24,7 @@ written using old syntax to make it clear what's going on:
 
 Implementation tests:
 
-* [tests.js](tests.js)
+* [tests.js](tests/tests.js)
 
 Issues
 ------
