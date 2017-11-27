@@ -11,18 +11,30 @@ inFullMobile Language Wars: Round 1 - JavaScript
 [![Downloads][downloads-img]][stats-url]
 [![License][license-img]][license-url]
 
-JavaScript solution to inFullMobile Language Wars: Round 1.
+JavaScript solution to inFullMobile Language Wars: Round 1. For more info see:
 
+* [inFullMobile Language Wars: Introduction](https://blog.infullmobile.com/language-wars-introduction-8ea0598e897)
+
+Solutions
+---------
 Solutions to the challange:
 
-* [solution-1-old.js](solution-1-old.js) - iterative solution, old syntax
-* [solution-1-new.js](solution-1-new.js) - iterative solution, new syntax
+### Solution 1
 
-Helper functions to test the solution,
+Simple iterative solution with loops and variables:
+
+* [solution-1-old.js](solution-1-old.js) ([gist][solution-1-old-gist])- old syntax
+* [solution-1-new.js](solution-1-new.js) ([gist][solution-1-new-gist])- new syntax
+
+Sample input
+------------
+Sample input functions to test the solution,
 written using old syntax to make it clear what's going on:
 
 * [helpers.js](helpers.js)
 
+Tests
+-----
 Implementation tests:
 
 * [tests.js](tests/tests.js)
@@ -71,3 +83,5 @@ MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 [stackoverflow-url]: https://stackoverflow.com/users/613198/rsp
 [stackexchange-url]: https://stackexchange.com/users/303952/rsp
 [stackexchange-img]: https://stackexchange.com/users/flair/303952.png
+[solution-1-old-gist]: https://gist.github.com/rsp/40f69fb7cb0b96124fcb02459ce66472
+[solution-1-new-gist]: https://gist.github.com/rsp/37e0b859bde229c22f9016d48685ff70
