@@ -26,6 +26,9 @@ Solutions to the challange:
 2. Simple recursive solution without loops:
 [old syntax](solution-2-old.js) ([gist][solution-2-old-gist]),
 [new syntax](solution-2-new.js) ([gist][solution-2-new-gist])
+3. Functional solution with no loops, variables and arithmetical operators:
+[old syntax](solution-3-old.js) ([gist][solution-3-old-gist]),
+[new syntax](solution-3-new.js) ([gist][solution-3-new-gist])
 
 Sample input
 ------------
@@ -83,3 +86,5 @@ MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 [solution-1-new-gist]: https://gist.github.com/rsp/37e0b859bde229c22f9016d48685ff70
 [solution-2-old-gist]: https://gist.github.com/rsp/c1607c8a9f489faa136c81b578428048
 [solution-2-new-gist]: https://gist.github.com/rsp/17d69b2104be486f69a225fdcaca7869
+[solution-3-old-gist]: https://gist.github.com/rsp/d2c88e304a40805ef247c0cd5ac1e065
+[solution-3-new-gist]: https://gist.github.com/rsp/b85c279311464fdf4ed1ddb80f15b491
