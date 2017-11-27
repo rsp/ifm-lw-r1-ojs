@@ -20,13 +20,13 @@ Solutions
 ---------
 Solutions to the challange:
 
-1. Simple iterative solution with loops and variables:
+1. Simple iterative solution with loops and temporary variables:
 [old syntax](solution-1-old.js) ([gist][solution-1-old-gist]),
 [new syntax](solution-1-new.js) ([gist][solution-1-new-gist])
-2. Simple recursive solution without loops:
+2. Simple recursive solution with no loops and temporary variables:
 [old syntax](solution-2-old.js) ([gist][solution-2-old-gist]),
 [new syntax](solution-2-new.js) ([gist][solution-2-new-gist])
-3. Functional solution with no loops, variables and arithmetical operators:
+3. Compact functional solution with no loops, variables and arithmetical operators:
 [old syntax](solution-3-old.js) ([gist][solution-3-old-gist]),
 [new syntax](solution-3-new.js) ([gist][solution-3-new-gist])
 
