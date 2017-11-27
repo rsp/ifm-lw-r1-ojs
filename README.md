@@ -23,6 +23,9 @@ Solutions to the challange:
 1. Simple iterative solution with loops and variables:
 [old syntax](solution-1-old.js) ([gist][solution-1-old-gist]),
 [new syntax](solution-1-new.js) ([gist][solution-1-new-gist])
+2. Simple recursive solution without loops:
+[old syntax](solution-2-old.js) ([gist][solution-2-old-gist]),
+[new syntax](solution-2-new.js) ([gist][solution-2-new-gist])
 
 Sample input
 ------------
@@ -78,3 +81,5 @@ MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 [stackexchange-img]: https://stackexchange.com/users/flair/303952.png
 [solution-1-old-gist]: https://gist.github.com/rsp/40f69fb7cb0b96124fcb02459ce66472
 [solution-1-new-gist]: https://gist.github.com/rsp/37e0b859bde229c22f9016d48685ff70
+[solution-2-old-gist]: https://gist.github.com/rsp/c1607c8a9f489faa136c81b578428048
+[solution-2-new-gist]: https://gist.github.com/rsp/17d69b2104be486f69a225fdcaca7869
