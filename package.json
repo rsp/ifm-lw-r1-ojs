@@ -1,6 +1,6 @@
 {
   "name": "ifm-lw-r1-js",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "inFullMobile Language Wars: Round 1 - JavaScript",
   "main": "f.js",
   "scripts": {
