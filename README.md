@@ -19,12 +19,9 @@ Solutions
 ---------
 Solutions to the challange:
 
-### Solution 1
-
-Simple iterative solution with loops and variables:
-
-* [solution-1-old.js](solution-1-old.js) ([gist][solution-1-old-gist])- old syntax
-* [solution-1-new.js](solution-1-new.js) ([gist][solution-1-new-gist])- new syntax
+1. Simple iterative solution with loops and variables:
+[old syntax](solution-1-old.js) ([gist][solution-1-old-gist]),
+[new syntax](solution-1-new.js) ([gist][solution-1-new-gist])
 
 Sample input
 ------------
