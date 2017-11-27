@@ -14,7 +14,7 @@ test('sample input tests', (t) => {
 });
 
 Object.keys(solutions).forEach((k) => {
-  test(`${k} f() function tests`, (t) => {
+  test(`${k} tests`, (t) => {
     const f = solutions[k];
     t.plan(5);
     t.equal(count(f(input1)), 0);
