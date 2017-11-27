@@ -1,7 +1,7 @@
 'use strict';
 
 const test = require('tape');
-const { f } = require('../solution');
+const solutions = require('../solutions');
 const { input1, input2, input3, input4, input5, count } = require('../helpers');
 
 test('sample input tests', (t) => {
@@ -13,11 +13,14 @@ test('sample input tests', (t) => {
   t.equal(count(input5), 1000);
 });
 
-test('f() function tests', (t) => {
-  t.plan(5);
-  t.equal(count(f(input1)), 0);
-  t.equal(count(f(input2)), 1);
-  t.equal(count(f(input3)), 9);
-  t.equal(count(f(input4)), 99);
-  t.equal(count(f(input5)), 999);
+Object.keys(solutions).forEach((k) => {
+  test(`${k} f() function tests`, (t) => {
+    const f = solutions[k];
+    t.plan(5);
+    t.equal(count(f(input1)), 0);
+    t.equal(count(f(input2)), 1);
+    t.equal(count(f(input3)), 9);
+    t.equal(count(f(input4)), 99);
+    t.equal(count(f(input5)), 999);
+  });
 });
