@@ -20,7 +20,7 @@ test('sample input tests', function (t) {
 });
 
 Object.keys(solutions).forEach(function (k) {
-  test(`${k} tests`, function (t) {
+  test(k + ' tests', function (t) {
     var f = solutions[k];
     t.plan(5);
     t.equal(count(f(input1)), 0);
