@@ -1,5 +1,5 @@
-inFullMobile Language Wars: Round 1 - JavaScript
-================================================
+inFullMobile Language Wars: Round 1 - Old JavaScript
+====================================================
 [![npm install][install-img]][npm-url]
 <br>
 [![Travis Build Status][travis-shield]][travis-url]
@@ -11,24 +11,24 @@ inFullMobile Language Wars: Round 1 - JavaScript
 [![Downloads][downloads-img]][stats-url]
 [![License][license-img]][license-url]
 
-JavaScript solution to inFullMobile Language Wars: Round 1. For more info see:
+Old JavaScript solution to inFullMobile Language Wars: Round 1. For more info see:
 
 * [inFullMobile Language Wars: Introduction](https://blog.infullmobile.com/language-wars-introduction-8ea0598e897)
 * [inFullMobile Language Wars: Round 1 Task Summary](https://gist.github.com/rsp/4255663f8c5a5e58bc9818a6174fe28f)
+
+This solution uses an old JavaScript syntax from 1995.
+To compare with a modern syntax, see [the JavaScript solution](https://github.com/rsp/ifm-lw-r1-ojs).
 
 Solutions
 ---------
 Solutions to the challange:
 
 1. Simple iterative solution with loops and temporary variables:
-[old syntax](solution-1-old.js) ([gist][solution-1-old-gist]),
-[new syntax](solution-1-new.js) ([gist][solution-1-new-gist])
-2. Simple recursive solution with no loops and temporary variables:
-[old syntax](solution-2-old.js) ([gist][solution-2-old-gist]),
-[new syntax](solution-2-new.js) ([gist][solution-2-new-gist])
-3. Compact functional solution with no loops, variables and arithmetical operators:
-[old syntax](solution-3-old.js) ([gist][solution-3-old-gist]),
-[new syntax](solution-3-new.js) ([gist][solution-3-new-gist])
+[solution-1.js](solution-1.js) ([gist][solution-1-old-gist])
+2. Simple recursive solution with no loops and no temporary variables:
+[solution-2.js](solution-2.js) ([gist][solution-2-old-gist])
+3. Compact functional solution with no loops, no variables and no arithmetical operators:
+[solution-3.js](solution-3.js) ([gist][solution-3-old-gist])
 
 Sample input
 ------------
