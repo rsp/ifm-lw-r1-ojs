@@ -34,4 +34,11 @@ function count(f) {
   return f(inc)(0);
 }
 
-module.exports = { input1, input2, input3, input4, input5, count };
+module.exports = {
+  input1: input1,
+  input2: input2,
+  input3: input3,
+  input4: input4,
+  input5: input5,
+  count: count
+};
