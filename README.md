@@ -17,7 +17,7 @@ Old JavaScript solution to inFullMobile Language Wars: Round 1. For more info se
 * [inFullMobile Language Wars: Round 1 Task Summary](https://gist.github.com/rsp/4255663f8c5a5e58bc9818a6174fe28f)
 
 This solution uses an old JavaScript syntax from 1995.
-To compare with a modern syntax, see [the JavaScript solution](https://github.com/rsp/ifm-lw-r1-ojs).
+To compare with a modern syntax, see [the JavaScript solution](https://github.com/rsp/ifm-lw-r1-js).
 
 Solutions
 ---------
@@ -56,25 +56,25 @@ License
 -------
 MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 
-[npm-url]: https://www.npmjs.com/package/ifm-lw-r1-js
-[github-url]: https://github.com/rsp/ifm-lw-r1-js
-[readme-url]: https://github.com/rsp/ifm-lw-r1-js#readme
-[issues-url]: https://github.com/rsp/ifm-lw-r1-js/issues
-[license-url]: https://github.com/rsp/ifm-lw-r1-js/blob/master/LICENSE.md
-[travis-url]: https://travis-ci.org/rsp/ifm-lw-r1-js
-[travis-img]: https://travis-ci.org/rsp/ifm-lw-r1-js.svg?branch=master
-[travis-shield]: https://img.shields.io/travis/rsp/ifm-lw-r1-js.svg?label=Travis+CI
-[circle-url]: https://circleci.com/gh/rsp/ifm-lw-r1-js
-[circle-img]: https://circleci.com/gh/rsp/ifm-lw-r1-js.svg?style=svg&circle-token=297eb2043562377c18aa17ecb8fa7286be8bf229
-[circle-shield]: https://img.shields.io/circleci/project/github/rsp/ifm-lw-r1-js.svg?label=Circle+CI
-[snyk-url]: https://snyk.io/test/github/rsp/ifm-lw-r1-js
-[snyk-img]: https://snyk.io/test/github/rsp/ifm-lw-r1-js/badge.svg
-[david-url]: https://david-dm.org/rsp/ifm-lw-r1-js
-[david-img]: https://david-dm.org/rsp/ifm-lw-r1-js/status.svg
-[install-img]: https://nodei.co/npm/ifm-lw-r1-js.png?compact=true
-[downloads-img]: https://img.shields.io/npm/dt/ifm-lw-r1-js.svg
-[license-img]: https://img.shields.io/npm/l/ifm-lw-r1-js.svg
-[stats-url]: http://npm-stat.com/charts.html?package=ifm-lw-r1-js
+[npm-url]: https://www.npmjs.com/package/ifm-lw-r1-ojs
+[github-url]: https://github.com/rsp/ifm-lw-r1-ojs
+[readme-url]: https://github.com/rsp/ifm-lw-r1-ojs#readme
+[issues-url]: https://github.com/rsp/ifm-lw-r1-ojs/issues
+[license-url]: https://github.com/rsp/ifm-lw-r1-ojs/blob/master/LICENSE.md
+[travis-url]: https://travis-ci.org/rsp/ifm-lw-r1-ojs
+[travis-img]: https://travis-ci.org/rsp/ifm-lw-r1-ojs.svg?branch=master
+[travis-shield]: https://img.shields.io/travis/rsp/ifm-lw-r1-ojs.svg?label=Travis+CI
+[circle-url]: https://circleci.com/gh/rsp/ifm-lw-r1-ojs
+[circle-img]: https://circleci.com/gh/rsp/ifm-lw-r1-ojs.svg?style=svg
+[circle-shield]: https://img.shields.io/circleci/project/github/rsp/ifm-lw-r1-ojs.svg?label=Circle+CI
+[snyk-url]: https://snyk.io/test/github/rsp/ifm-lw-r1-ojs
+[snyk-img]: https://snyk.io/test/github/rsp/ifm-lw-r1-ojs/badge.svg
+[david-url]: https://david-dm.org/rsp/ifm-lw-r1-ojs
+[david-img]: https://david-dm.org/rsp/ifm-lw-r1-ojs/status.svg
+[install-img]: https://nodei.co/npm/ifm-lw-r1-ojs.png?compact=true
+[downloads-img]: https://img.shields.io/npm/dt/ifm-lw-r1-ojs.svg
+[license-img]: https://img.shields.io/npm/l/ifm-lw-r1-ojs.svg
+[stats-url]: http://npm-stat.com/charts.html?package=ifm-lw-r1-ojs
 [github-follow-url]: https://github.com/rsp
 [github-follow-img]: https://img.shields.io/github/followers/rsp.svg?style=social&label=Follow
 [twitter-follow-url]: https://twitter.com/intent/follow?screen_name=pocztarski
