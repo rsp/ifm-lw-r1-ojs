@@ -11,7 +11,7 @@ function e(a) {
 function f(a) {
   return function (b) {
     return function (c) {
-      return e(c)(b)(a(a => a + 1)(0) - 1);
+      return e(c)(b)(a(function (a) { return a + 1; })(0) - 1);
     };
   };
 }
