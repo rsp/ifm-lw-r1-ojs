@@ -32,7 +32,7 @@ Solutions to the challange:
 
 Sample input
 ------------
-Sample input to test the solution, using old syntax for simplicity: [helpers.js](helpers.js)
+Sample input to test the solution: [helpers.js](helpers.js) (old syntax for easier translation to other languages)
 
 Tests
 -----
