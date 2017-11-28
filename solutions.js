@@ -1,6 +1,6 @@
 'use strict';
 
-for (const i of [1, 2, 3]) {
-  const n = `solution-${i}`;
+for (var i = 1; i <= 3; i++) {
+  var n = `solution-${i}`;
   module.exports[n] = require(`./${n}`);
 }
