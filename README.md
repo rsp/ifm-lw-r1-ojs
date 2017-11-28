@@ -16,8 +16,8 @@ Old JavaScript solution to inFullMobile Language Wars: Round 1. For more info se
 * [inFullMobile Language Wars: Introduction](https://blog.infullmobile.com/language-wars-introduction-8ea0598e897)
 * [inFullMobile Language Wars: Round 1 Task Summary](https://gist.github.com/rsp/4255663f8c5a5e58bc9818a6174fe28f)
 
-This solution uses an old JavaScript syntax from 1995.
-To compare with a modern syntax, see [the JavaScript solution](https://github.com/rsp/ifm-lw-r1-js).
+This solution uses the original JavaScript syntax from 1995.
+See also [the modern JavaScript solution](https://github.com/rsp/ifm-lw-r1-js).
 
 Solutions
 ---------
