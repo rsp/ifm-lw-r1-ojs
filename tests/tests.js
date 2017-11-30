@@ -10,7 +10,7 @@ var input4 = helpers.input4;
 var input5 = helpers.input5;
 var count = helpers.count;
 
-test('sample input tests', function (t) {
+test('sample input numerical tests', function (t) {
   t.plan(5);
   t.equal(count(input1), 1);
   t.equal(count(input2), 2);
@@ -20,7 +20,7 @@ test('sample input tests', function (t) {
 });
 
 Object.keys(solutions).forEach(function (k) {
-  test(k + ' tests', function (t) {
+  test(k + ' numerical tests', function (t) {
     var f = solutions[k];
     t.plan(5);
     t.equal(count(f(input1)), 0);
