@@ -38,7 +38,7 @@ var gs = [double, parens, concat, xplusx, object, arrays];
 var as = [input1, input2, input3, input2(input2(input2))];
 var xs = ['xxx', 5, [null], { object: null }, { a: [1] }];
 
-let magic = 0;
+var magic = 0;
 
 for (var fn in solutions) {
   var f = solutions[fn];
