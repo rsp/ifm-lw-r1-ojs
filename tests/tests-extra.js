@@ -34,7 +34,7 @@ test('sample input non-numerical tests', function (t) {
 });
 
 Object.keys(solutions).forEach(function (k) {
-  test(`${k} non-numerical tests`, function (t) {
+  test(k + ' non-numerical tests', function (t) {
     var f = solutions[k];
     t.plan(7);
     t.deepEqual(f(input1)(parens)('xxx'), 'xxx');
