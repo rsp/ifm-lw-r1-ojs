@@ -36,7 +36,14 @@ Sample input to test the solution: [helpers.js](helpers.js) (old syntax for easi
 
 Tests
 -----
-Implementation tests: [tests.js](tests/tests.js)
+Simple implementation tests:
+- [tests.js](tests/tests.js)
+
+Extra tests on non-numerical functions:
+- [tests-extra.js](tests/tests-extra.js)
+
+Magic tests based on `g(f(a)(g)(x)) === a(g)(x)` equality:
+- [tests-magic.js](tests/tests-magic.js)
 
 Issues
 ------
